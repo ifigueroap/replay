@@ -1,3 +1,3 @@
 #lang scribble/manual
 
-@title{Preplay: Programando en Racket}
+@title{PrePlay: Programando en Racket}

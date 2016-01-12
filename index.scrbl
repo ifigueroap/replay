@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@title{Replay}
+@title{RePlay}
 
 @include-section["preface.scrbl"]
 @include-section["overview.scrbl"]
